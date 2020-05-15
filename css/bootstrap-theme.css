@@ -77,16 +77,16 @@ a:focus, .btn:focus,
   background-image: none;
 }
 .btn-primary {
-  border-color: #2b669a;
+  border-color: #4d1e23;
 }
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #2d6ca2;
+  background-color: #4d1e23;
   border-color: transparent;
 }
 .btn-primary:active,
 .btn-primary.active {
-  background-color: #2d6ca2;
+  background-color: #a9bcc0;
   border-color: transparent;
 }
 .btn-primary:disabled,
